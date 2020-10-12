@@ -22,4 +22,4 @@ A school project.
 Entscheidend um durch ein Code Review zu kommen ist:
  - Der Code compiled 
  - Alle Tests werden erfolgreich ausgeführt.
- - Variablen und Funktionen haben sinnvolle und sprechende Namen. Bspw. `maxTemprature` statt `temp`. Einzige Ausnahme in `i` in for schleifen
+ - Variablen und Funktionen haben sinnvolle und sprechende Namen. Bspw. `maxTemprature` statt `temp`. Einzige Ausnahme ist `i` in for schleifen
